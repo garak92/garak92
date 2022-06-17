@@ -4,7 +4,7 @@
 - I code mostly in Javascript, Python, Rust, and SQL 💻 🐍 🦀
 - I have some basic devops experience with tools such as Docker, Tyk, bash scripting, and Jenkins. 💲 🐳 
 - As a hobby, I love exploring the world of boomer shooters and gamedev in general :feelsgood: :feelsgood: :feelsgood:
-- I am passionate about Linux and the free software ecosystem in general :penguin: :penguin: :penguin: :
+- I am passionate about Linux and the free software ecosystem in general :penguin: :penguin: :penguin:
 
 
 <!--
