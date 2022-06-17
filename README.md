@@ -1,4 +1,4 @@
-### Computer, philosophy, and sci-fi nerd reporting in
+### Computer, philosophy, and sci-fi nerd reporting in 💻 📘 🖖
 
 - I am a programmer with 4 years of experience, ranging from data engineering and analytics to full-stack web dev using the MERN stack
 - I code mostly in Javascript, Python, Rust, and SQL 💻 🐍 🦀
