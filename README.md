@@ -1,6 +1,6 @@
 ### Computer, philosophy, and sci-fi nerd reporting in 💻 📘 🖖
 
-- I am a professional software engineer with 4 years of experience, ranging from data engineering and analytics to full-stack web dev using the MERN stack 🌐
+- I am a professional software developer with 4 years of experience ranging from data engineering and analytics to full-stack web dev using the MERN stack 🌐
 - I code mostly in Javascript, Python, Rust, and SQL 💻 🐍 🦀
 - I have some basic devops experience with tools such as Docker, Tyk, bash scripting, and Jenkins. 💲 🐳 
 - As a hobby, I love exploring the world of boomer shooters and gamedev in general :feelsgood: :feelsgood: :feelsgood:
