@@ -1,4 +1,4 @@
-### Computer, philosophy, and sci-fi nerd reporting in 💻 📘 🖖
+### A bit about me
 
 - I am a professional software developer with 4 years of experience
 - I code mostly in Java, Javascript, and SQL
