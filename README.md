@@ -1,6 +1,6 @@
 ### Computer, philosophy, and sci-fi nerd reporting in 💻 📘 🖖
 
-- I am a professional software developer with 4 years of experience ranging from data engineering and analytics to full-stack web development
+- I am a professional software developer with 4 years of experience
 - I code mostly in Java, Javascript, and SQL
 - I have experience working with tools such as Docker, Tyk, bash scripting, and Jenkins.
 - As a hobby, I love exploring the world of boomer shooters and gamedev in general
