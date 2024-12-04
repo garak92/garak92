@@ -3,7 +3,7 @@
 - I am a professional software developer with 4 years of experience
 - I code mostly in Java, Javascript, and SQL
 - I have experience working with tools such as Docker, Tyk, bash scripting, and Jenkins.
-- As a hobby, I love exploring the world of boomer shooters and gamedev in general
+- Gamedev hobbyist
 - I am passionate about Linux and the free software ecosystem
 - Besides programming, I enjoy reading books (I am a recovering philosophy major)
 
